@@ -1,2 +1,2 @@
-# Personal-Projects
-Other Projects I've made in my free time
+# Snake Game
+Snake Game I've made in my free time
